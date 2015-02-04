@@ -1,0 +1,2 @@
+# NewsScraper
+Scrapes news websites
